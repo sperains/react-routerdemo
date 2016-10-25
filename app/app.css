@@ -1,0 +1,9 @@
+.l1 {
+
+	display: inline-block;
+	height: 4rem;
+	line-height: 4rem;
+	text-decoration: none;
+	font-size: 4rem;
+	color: red;
+}
